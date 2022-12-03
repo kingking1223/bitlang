@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/bitlang/__init__.py
+src/bitlang/main.py
+src/bitlang.egg-info/PKG-INFO
+src/bitlang.egg-info/SOURCES.txt
+src/bitlang.egg-info/dependency_links.txt
+src/bitlang.egg-info/top_level.txt
